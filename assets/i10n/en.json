@@ -1,0 +1,9 @@
+{
+  "labelStudent": "Student",
+  "labelTeacher": "Teacher",
+  "labelMobileNumber": "Mobile",
+  "labelPassword": "OTP",
+  "labelNoPasswordTryOtp": "No Password? Try OTP",
+  "labelResendOtp": "RESEND OTP ?",
+  "labelSignIn": "SIGN IN"
+}
