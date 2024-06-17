@@ -1,6 +1,6 @@
 class AppConstant {
   static const String googleMapApiKey =
-      "AIzaSyAyduicN-Rqi_cDt9vPPkHDmj6MUWG8SJ4";
+      "";
 
   static const String customerLogin = "1";
   static const String cleanerLogin = "2";
@@ -78,5 +78,5 @@ class AppConstant {
 
   static bool isChatScreen=false;
   static bool isLoggedIn=false;
-  static String fcmServerKey='AAAATeOlZdg:APA91bFasLD0kCDX3LQ14r1SJc6Hzp1zH0-brwHhZItfRbqpR907L4pokWavdh3S3tlWrx-91ivFegoFmtCN1iTjyo2frHkTlMAFLySKdo4uPKmd3Lyw8ExLlIz_NCIDOsvso8V8yw9v';
+  static String fcmServerKey='';
 }
