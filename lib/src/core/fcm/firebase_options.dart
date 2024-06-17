@@ -48,9 +48,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB7wZb2tO1-Fs6GbDADUSTs2Qs3w08Hovw',
-    appId: '1:406099696497:web:87e25e51afe982cd3574d0',
-    messagingSenderId: '406099696497',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'flutterfire-e2e-tests',
     authDomain: 'flutterfire-e2e-tests.firebaseapp.com',
     databaseURL:
@@ -60,16 +60,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCT_8_6MpTMlnpkOG_8WBwz5Gn_5fmfdGk',
-    appId: '1:114334300744:android:f9c3af8eb5162b3560b67d',
-    messagingSenderId: '114334300744',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'school-sync-aadc1',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDooSUGSf63Ghq02_iIhtnmwMDs4HlWS6c',
-    appId: '1:406099696497:ios:1b423b89c63b82053574d0',
-    messagingSenderId: '406099696497',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'flutterfire-e2e-tests',
     databaseURL:
         'https://flutterfire-e2e-tests-default-rtdb.europe-west1.firebasedatabase.app',
@@ -82,9 +82,9 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDooSUGSf63Ghq02_iIhtnmwMDs4HlWS6c',
-    appId: '1:406099696497:ios:1b423b89c63b82053574d0',
-    messagingSenderId: '406099696497',
+    apiKey: '',
+    appId: ':',
+    messagingSenderId: '',
     projectId: 'flutterfire-e2e-tests',
     databaseURL:
         'https://flutterfire-e2e-tests-default-rtdb.europe-west1.firebasedatabase.app',
